@@ -7,5 +7,9 @@ https://www.canva.com/design/DAG3QJwh9ug/9ijMPfgtkFpNU1koY3ICsQ/edit?utm_content
 ## Assignment 2
 [Assignment 2 - Industrial Talk 1.pdf](https://github.com/user-attachments/files/24362693/Assignment.2.-.Industrial.Talk.1.pdf)
 
+## PC Assemble (Lab)
+[PC Assemble - Lab Quiz.pdf](https://github.com/user-attachments/files/24362779/PC.Assemble.-.Lab.Quiz.pdf)
+
+
 ## Design Thinking Project
 [Assignment 3 - TASKSYNC.pptx](https://github.com/user-attachments/files/24362692/Assignment.3.-.TASKSYNC.pptx)
