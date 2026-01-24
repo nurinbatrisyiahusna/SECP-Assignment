@@ -1,5 +1,5 @@
 # SECP1513 - Assignment
-These are some of the assignments I worked on in my SECP class.
+These are some of the assignments I worked on in my SECP class. 
 
 ## Assignment 1 (Video)
 📹 https://www.canva.com/design/DAG3QJwh9ug/9ijMPfgtkFpNU1koY3ICsQ/edit?utm_content=DAG3QJwh9ug&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
