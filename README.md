@@ -5,7 +5,7 @@ These are some of the assignments I worked on in my SECP class.
 📹 https://www.canva.com/design/DAG3QJwh9ug/9ijMPfgtkFpNU1koY3ICsQ/edit?utm_content=DAG3QJwh9ug&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Assignment 2 (Poster)
-🖼️ [Assignment 2 - Industry Talk 1.pdf](https://github.com/user-attachments/files/24837215/Assignment.2.-.Industry.Talk.1.pdf)
+🖼️ [Assignment.2.-.Industry.Talk.1.pdf](https://github.com/user-attachments/files/32436254/Assignment.2.-.Industry.Talk.1.pdf)
 
 ## Assignment 3 (Report)
 📄 [Assignment 3 - Industry Talk 2.pdf](https://github.com/user-attachments/files/24836247/Assignment.3.-.Industry.Talk.2.pdf)
